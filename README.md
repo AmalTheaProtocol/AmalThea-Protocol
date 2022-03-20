@@ -1,0 +1,2 @@
+# AmalThea-Protocol
+AmalThea Protocol is meme coin created on Solana blockchain, due it cheap fees, fast transactions and its interesting platform to explore.      Solana is a fast growing crypto currency, And is not more than a year and a half old.   It is believe that Solana would become the number one Crypto currency in the coming years..  Token name: AmalThea Proctocol  Symbol: AML  Total Supply: 100,000,000,000,000  Decimals: 3
